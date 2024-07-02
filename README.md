@@ -17,8 +17,8 @@ In the game of Alien Invasion, players are put in control of a spaceship located
 
 - Space-bar: Shoot
 - Arrow keys (left - right): Move the ship left / right
-- Q: Quit the game
-- P: Play/Pause the game
+- Q: (Q)uit the game
+- P: Start (P)laying the game
 
 ## ⚔ Let's play
 
