@@ -1,3 +1,5 @@
+![Game ScreenShot](img.png)
+
 # 👽 Alien Invasion: A Python Journey
 
 Alien Invasion is a recreation of a well-known arcade game bearing the same title. This project was undertaken as part of my journey through the "Python Crash Course" book, serving as a practical application to enhance my Python abilities.
@@ -15,6 +17,8 @@ In the game of Alien Invasion, players are put in control of a spaceship located
 
 - Space-bar: Shoot
 - Arrow keys (left - right): Move the ship left / right
+- Q: Quit the game
+- P: Play/Pause the game
 
 ## ⚔ Let's play
 
