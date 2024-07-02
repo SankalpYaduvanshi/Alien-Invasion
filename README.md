@@ -10,8 +10,8 @@ In the game of Alien Invasion, players are put in control of a spaceship located
 
 ## 🔧 Requirements
 
-- Python 3.x +
-- Pygame
+- [Python](https://www.python.org/) 3.x +
+- [Pygame](https://www.pygame.org/)
 
 ## 🎮 Controls
 
